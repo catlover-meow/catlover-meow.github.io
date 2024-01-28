@@ -3,6 +3,9 @@ project:
 
 website:
   title: "Abhimanyu Yadav"
+  site-url: https://ekshunyam.github.io/
+  google-analytics: "G-PJE6CQ07D5"
+  cookie-consent: true
   navbar:
     right:
       - about.qmd
