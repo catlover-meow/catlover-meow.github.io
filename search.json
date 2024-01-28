@@ -102,7 +102,7 @@
     "href": "posts/2024-1-27-Blog-Setup/index.html#step-4-create-your-first-blog-post",
     "title": "How I created this Blog",
     "section": "Step 4: Create your first Blog Post",
-    "text": "Step 4: Create your first Blog Post\nNow it is time to create your first own blog post.\nIn the posts-directory, create a new folder, for example hello-world. Within this folder, create a notebook called index.ipynb. Add some hello-world content and a RAW-section as the first cell with this content (here is an example):\n---\ntitle: \"Hello World\"\nauthor: \"Your Name\"\ndate: \"2022-01-01\"\n---\nRepublish your blog:\nquarto publish gh-pages\nCongratulations, you just published your first blog post!\nFor a little more detailed version of the hello world blog post, please refer to my other hello world post."
+    "text": "Step 4: Create your first Blog Post\nNow it is time to create your first own blog post.\nIn the posts-directory, create a new folder, for example hello-world. Within this folder, create a notebook called index.ipynb. Add some hello-world content and a RAW-section as the first cell with this content (here is an example):\n---\ntitle: \"Hello World\"\nauthor: \"Your Name\"\ndate: \"2022-01-01\"\n---\nRepublish your blog:\nquarto publish gh-pages\nCongratulations, you just published your first blog post!\nFor a little more detailed version of the hello world blog post, please feel free to reach out."
   },
   {
     "objectID": "posts/2024-1-27-Blog-Setup/index.html#step-5-avoiding-disaster",
